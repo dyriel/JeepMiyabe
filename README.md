@@ -1,6 +1,6 @@
 # jeepmiyabe
 
-A new Flutter project.
+A mobile application project that is designed to help tourists and commuters navigate Angeles City, Pampanga by providing information aout the official jeepney routes in Angeles. 
 
 ## Getting Started
 
